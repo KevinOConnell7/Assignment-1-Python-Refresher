@@ -27,7 +27,7 @@ This is the code I used to calculate the fibonacci number. In this code I used r
 
 <img width="638" alt="Screen Shot 2024-01-31 at 11 01 35 AM" src="https://github.com/KevinOConnell7/Assignment-1-Python-Refresher/assets/45603150/ad0daa44-292d-40b5-a03b-826073188052">
 
-This displays the output that I had when running this code.
+This displays the output that I had when running fib.py.
 
 <img width="583" alt="image" src="https://github.com/KevinOConnell7/Assignment-1-Python-Refresher/assets/45603150/bbaa1559-43e5-4002-b3fa-a69a3d07f44c">
 
