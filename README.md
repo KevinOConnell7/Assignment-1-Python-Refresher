@@ -13,7 +13,7 @@ This image is my code for the echo.py assignment. In my code I created a loop so
 
 <img width="642" alt="Screen Shot 2024-01-31 at 10 19 17 AM" src="https://github.com/KevinOConnell7/Assignment-1-Python-Refresher/assets/45603150/a5542151-12d3-4ba1-b7e2-3ba39e208df2">
 
-Here is the output of my echo.py code
+Here is the output of my echo.py code.
 
 
 ## Python Decorator Implementation
@@ -31,4 +31,4 @@ This displays the output that I had when running fib.py.
 
 <img width="583" alt="image" src="https://github.com/KevinOConnell7/Assignment-1-Python-Refresher/assets/45603150/bbaa1559-43e5-4002-b3fa-a69a3d07f44c">
 
-Here is a chart I made with the time it took to calculate each of the Fibonacci numbers and the number it calculated it for all the way up too 100. This plot aswell shows that lower numbers are quicker to compute since we used reccursion and the larger numbers take much more time. 
+Here is a chart I made with the time it took to calculate each of the Fibonacci numbers and the number it calculated for all the way up too 100. This plot aswell shows that lower numbers are quicker to compute since we used reccursion and the larger numbers take much more time. 
